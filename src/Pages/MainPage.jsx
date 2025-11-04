@@ -10,7 +10,7 @@ function MainPage() {
     console.log("Income is:", income);
 
     const [rupee, setRupee] = useState("");
-    const [type, setType] = useState("")
+    const [type, setType] = useState("");
 
 
 
